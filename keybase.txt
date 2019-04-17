@@ -49,3 +49,60 @@ And finally, I am proving ownership of this host by posting or
 appending to this document.
 
 View my publicly-auditable identity here: https://keybase.io/peteburgers
+
+==================================================================
+https://keybase.io/peteburgers
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.peteburgers.tk
+  * I am peteburgers (https://keybase.io/peteburgers) on keybase.
+  * I have a public key ASAHv8LuAwouloctyzVQQjG7wAcvtSWy38893tNIE0-3xQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120da1c70f443ba5ec1f428585207a31a1f5aceee420729ff04b20120919f898c590a",
+      "host": "keybase.io",
+      "kid": "012007bfc2ee030a2e96872dcb35504231bbc0072fb525b2dfcf3dded348134fb7c50a",
+      "uid": "b28b8b0fdbbb437a384e2fe8ebbed119",
+      "username": "peteburgers"
+    },
+    "merkle_root": {
+      "ctime": 1555525313,
+      "hash": "3095c1f23e1ac9324e7fe42bce513082b0749f7bc66abd1e56bf62457070aef2e36097812cc88670f6e02707e8578f7ce5155f31309623016a1ce0ece03716b8",
+      "hash_meta": "248c7cacfdf67bdd7946f275debee0349fbed443ea177ce3c8b16f813e75a1f1",
+      "seqno": 5193358
+    },
+    "service": {
+      "entropy": "2l9MImc1A9wDvF/cjBrwANag",
+      "hostname": "www.peteburgers.tk",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.2.2"
+  },
+  "ctime": 1555525328,
+  "expire_in": 504576000,
+  "prev": "482431974bcbb10deabd2a87104121857979dd22f6d235d69b20f132d67090f2",
+  "seqno": 17,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgB7/C7gMKLpaHLcs1UEIxu8AHL7Ulst/PPd7TSBNPt8UKp3BheWxvYWTESpcCEcQgSCQxl0vLsQ3qvSqHEEEhhXl53SL20jXWmyDxMtZwkPLEIFPIA5dHYnSY0Tz3F/2DnZV9X0u93Vm5hRq73znsmI6gAgHCo3NpZ8RARfZ7pqE5A7H/pfx0UYte1tfDnhJHsb5bzXtVFRE+aPY0lTWjnxjObfpaX+jKpWnU6pFBcrbEzwgw55U+UkiaCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFa82DZ6yYErlSFpTCyWIt0wWWUoAP832vGIlPsF2lnWo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/peteburgers
+
+==================================================================
